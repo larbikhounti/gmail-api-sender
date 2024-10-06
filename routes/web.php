@@ -6,8 +6,6 @@ use App\Models\EmailToken;
 use App\Models\SendJobs;
 use Illuminate\Support\Facades\Route;
 use Dacastro4\LaravelGmail\Facade\LaravelGmail;
-use Dacastro4\LaravelGmail\Services\Message\Mail;
-use Illuminate\Http\Request;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
