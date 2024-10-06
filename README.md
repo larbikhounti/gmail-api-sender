@@ -29,3 +29,11 @@ its not that hard
 - "test mode " : this only send an email to test inboxes not the data list 
 - "drop mode "  : this will send email to all your data list 
 - all the other parameters are self explained 
+
+
+# TODO-LIST
+ - []  user should be able to upload data list
+ - []  token crud
+ - []  drops crud
+ - []  stop and resume the drop aka sending process
+ - []  implements design patterns and coding best practices
