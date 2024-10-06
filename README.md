@@ -15,7 +15,7 @@ this software allows you to send emails to list of recipients using your own gma
 
 # the how 
 - connect to the gmail inbox by clicking on the "connect" button
-- you if you done all the above right google will ask you to give permissions to the app you just created .
+- if you do all the above right google will ask you to give permissions to the app you just created .
 - allow it
 - its will redirect you the software and access token will be generated 
 ### checking the access token 
@@ -23,7 +23,7 @@ this software allows you to send emails to list of recipients using your own gma
 ### adding recipients 
 - well its not yet implemented I'm working on it hehe - but you can add it manually, by accessing to the database and add insert them
 its not that hard 
-## start sending page emails
+## start sending emails
 - if you click on "send page" button you will find your connected gmail inbox with some setting and data-list to send email list 
 - the send page have to modes :
 - "test mode " : this only send an email to test inboxes not the data list 
