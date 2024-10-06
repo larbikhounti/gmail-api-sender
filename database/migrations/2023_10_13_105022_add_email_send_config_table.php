@@ -13,7 +13,7 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::table('config', function (Blueprint $table) {
+        Schema::table('email_tokens', function (Blueprint $table) {
             $table->boolean('stop_email_jobs')->default(false);
         });
     }
